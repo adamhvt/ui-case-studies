@@ -1,0 +1,15 @@
+.page-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  .page-header-center {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .page-header-right {
+    display: flex;
+  }
+}
